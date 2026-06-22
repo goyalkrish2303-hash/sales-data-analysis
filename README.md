@@ -1,4 +1,4 @@
-# Sales Data Analysis Project
+# Data Immersion & Wrangling - Task 1 
 
 ## Objective
 To analyze sales data and extract meaningful business insights using Python.
